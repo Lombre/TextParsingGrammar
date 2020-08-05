@@ -1,6 +1,6 @@
 
 # All the generated java files and the likes.
-target/**
+target/
 
 # Compiled class file
 *.class
